@@ -13,3 +13,5 @@ With rules:
 Using maven `mvn clean install`
 ## Run
 As a jar: java -jar target/wallpaperCalculator.jar
+## IDE
+Lombok Project plugin should be enabled
